@@ -1,7 +1,11 @@
 👋 Hi, I’m @anurag joshi
+
 👀 I’m interested in Data Science and challenging Business problems
+
 🌱 I’m currently learning Deep Learning
+
 💞️ I’m looking to collaborate on Data Science Community
+
 📫 How to reach me https://www.linkedin.com/in/jocanu | https://www.blogger.com/blog/posts/6400416735966139486
 
 <!---
